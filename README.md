@@ -1,22 +1,22 @@
 # 👋 Hey there, I'm Bhuwan!  
 
-🚀 Aspiring **Full-Stack Developer** | MERN Stack Enthusiast | Tech Explorer  
+🚀 Aspiring **Machine Learning Engineer** | MERN Stack Enthusiast | Tech Explorer  
 
 I love building projects that solve real problems and experimenting with new technologies.  
-Currently exploring **DBMS, MERN, Python, and deployment pipelines** to sharpen my skills.  
+Currently learning **DSA, Python, Machine Learning** to sharpen my skills.  
 
 ---
 
 ## 🌐 Connect with me  
 
 <p align="left">
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/bhuwanhike" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/bhuwanhike" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:bhuwanhike@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
