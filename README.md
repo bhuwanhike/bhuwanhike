@@ -53,16 +53,16 @@ Currently learning **DSA, Generative AI** to sharpen my skills.
    🗃️ Demo Portfolio Website
 </a>
 <a href="https://microsoft-clone-fawn.vercel.app/" target="_blank" rel="noopener noreferrer">
-   🖥️ [*Microsoft Clone**]
+   🖥️ Microsoft Clone
 </a>
 <a href="https://calculator-roan-seven-37.vercel.app/" target="_blank" rel="noopener noreferrer">
-   🧮 [**Calculator App**]
+   🧮 Calculator App
 </a>
 <a href="https://netflixclone-three-iota.vercel.app/" target="_blank" rel="noopener noreferrer">
-   🎬 [**Netflix Clone**]
+   🎬 Netflix Clone
 </a>
 <a href="https://pitchport-frontend.onrender.com/" target="_blank" rel="noopener noreferrer">
-   🎤 [**PitchPort – Idea Pitching Platform**]
+   🎤 PitchPort – Idea Pitching Platform
 </a>
 
 
