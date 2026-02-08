@@ -1,9 +1,9 @@
 # 👋 Hey there, I'm Bhuwan!  
 
-🚀 Aspiring **Machine Learning Engineer** | MERN Stack Enthusiast | Tech Explorer  
+🚀 Aspiring **AI Systems Engineer** | MERN Stack Developer | Tech Explorer  
 
 I love building projects that solve real problems and experimenting with new technologies.  
-Currently learning **DSA, Python, Machine Learning** to sharpen my skills.  
+Currently learning **DSA, Generative AI** to sharpen my skills.  
 
 ---
 
