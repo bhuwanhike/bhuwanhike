@@ -48,7 +48,7 @@ Currently learning **DSA, Python, Machine Learning** to sharpen my skills.
 ## 📂 Featured Projects  
 
 - 🖨️ [**Printery – College Stationery Web App**](https://printery-frontend.onrender.com) *(MERN Full-Stack)*
-- 🗃️ [**Demo Portfolio Website**](https://printery-frontend.onrender.com](https://bhuwan-portfolio.vercel.app/))
+- 🗃️ [**Demo Portfolio Website**](https://bhuwan-portfolio.vercel.app/)
 - 💼 [**Portfolio Website**](https://bhuwan-portfolio-nine.vercel.app/)  
 - 🖥️ [**Microsoft Clone**](https://microsoft-clone-fawn.vercel.app/)  
 - 🧮 [**Calculator App**](https://calculator-roan-seven-37.vercel.app/)  
