@@ -48,6 +48,7 @@ Currently learning **DSA, Generative AI** to sharpen my skills.
 ## 📂 Featured Projects
 
 <p>
+💼 <strong><a href="https://my-portfolio-vert-seven-r917j1jeon.vercel.app/">Demo Portfolio Website</a></strong><br/>
 🖨️ <strong><a href="https://printery-frontend.onrender.com">Printery – College Stationery Web App</a></strong><br/>
 🗃️ <strong><a href="https://bhuwan-portfolio.vercel.app/">Demo Portfolio Website</a></strong><br/>
 🖥️ <strong><a href="https://microsoft-clone-fawn.vercel.app/">Microsoft Clone</a></strong><br/>
