@@ -46,14 +46,25 @@ Currently learning **DSA, Generative AI** to sharpen my skills.
 ---
 
 ## 📂 Featured Projects  
+<a href="https://printery-frontend.onrender.com" target="_blank" rel="noopener noreferrer">
+   🖨️ Printery – College Stationery Web App
+</a>
+<a href="https://bhuwan-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+   🗃️ Demo Portfolio Website
+</a>
+<a href="https://microsoft-clone-fawn.vercel.app/" target="_blank" rel="noopener noreferrer">
+   🖥️ [*Microsoft Clone**]
+</a>
+<a href="https://calculator-roan-seven-37.vercel.app/" target="_blank" rel="noopener noreferrer">
+   🧮 [**Calculator App**]
+</a>
+<a href="https://netflixclone-three-iota.vercel.app/" target="_blank" rel="noopener noreferrer">
+   🎬 [**Netflix Clone**]
+</a>
+<a href="https://pitchport-frontend.onrender.com/" target="_blank" rel="noopener noreferrer">
+   🎤 [**PitchPort – Idea Pitching Platform**]
+</a>
 
-- 🖨️ [**Printery – College Stationery Web App**](https://printery-frontend.onrender.com) *(MERN Full-Stack)*
-- 🗃️ [**Demo Portfolio Website**](https://bhuwan-portfolio.vercel.app/)
-- 💼 [**Portfolio Website**](https://bhuwan-portfolio-nine.vercel.app/)  
-- 🖥️ [**Microsoft Clone**](https://microsoft-clone-fawn.vercel.app/)  
-- 🧮 [**Calculator App**](https://calculator-roan-seven-37.vercel.app/)  
-- 🎬 [**Netflix Clone**](https://netflixclone-three-iota.vercel.app/)  
-- 🎤 [**PitchPort – Idea Pitching Platform**](https://pitchport-frontend.onrender.com/)  
 
 ---
 
